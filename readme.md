@@ -2,7 +2,7 @@
 
 Projeto criado durante o Bootcamp Front End DIO, aprimoramentos feitos por meio de um ranking dos 10 melhores jogadores, deixe a sua marca.
 
-Veja se consegue bater o meu record: https://lgjor.github.io/detona-ralph/
+Veja se consegue bater o meu record: https://lucasgch.github.io/detona-ralph/
 
 ## 🎮 Sobre o Projeto
 
@@ -52,7 +52,7 @@ Ao final de cada partida, se sua pontuação estiver entre as 10 melhores, você
 ## 📋 Como Executar
 
 Execute pelo github pages:
-[https://lgjor.github.io/detona-ralph/](https://lgjor.github.io/detona-ralph/)
+[https://lucasgch.github.io/detona-ralph/](https://lucasgch.github.io/detona-ralph/)
 
 Ou clone este repositório
 
